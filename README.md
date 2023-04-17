@@ -1,10 +1,6 @@
-# smooth-scroll-js
+# Smooth Scroll JS
  A lightweight JavaScript plugin that enables smooth scrolling to target sections on a webpage, without adding the target section's ID to the URL.
-
-# smooth-scroll-js
-
-A lightweight JavaScript plugin that enables smooth scrolling to target sections on a webpage, without adding the target section's ID to the URL.
-
+ 
 ## Usage
 
 1. Include the `smooth-scroll.js` script in your HTML file, e.g.:
